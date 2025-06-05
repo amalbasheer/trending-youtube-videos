@@ -1,6 +1,7 @@
 # trending-youtube-videos
 SQL  project
-SQL-based exploration of video performance, content trends, and audience interaction patterns.
+
+SQL-based exploration of video performance, content trends, and audience interaction patterns done in postgresql.
 
 Data Cleaning And Preprocessing
 Convert publishedAt into DATE and TIME using SQL date functions.
